@@ -1,0 +1,10 @@
+sun
+tennis_racquet
+cloud
+star
+apple
+flower
+cup
+cat
+sock
+ice_cream
